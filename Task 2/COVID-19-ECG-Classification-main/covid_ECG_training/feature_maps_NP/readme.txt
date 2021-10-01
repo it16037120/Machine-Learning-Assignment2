@@ -1,0 +1,4 @@
+you should put HEXAXIAL MAP IMAGES (NEGATIVE-POSTİVE) in this file
+C:POSTIVE
+N:NEGATIVE
+
